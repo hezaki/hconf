@@ -8,9 +8,7 @@
 # AutoStart
 exec_always --no-startup-id picom --experimental-backends
 exec_always --no-startup-id ~/.config/polybar/launch.sh
-exec_always --no-startup-id plank
 exec_always --no-startup-id nitrogen --restore
-exec_always --no-startup-id dbus-launch dunst --config ~/.config/dunst/dunstrc
 
 #UserBinds
 bindsym $mod+F1 exec chromium
@@ -217,7 +215,7 @@ bindsym $mod+r mode "resize"
 
 # gaps
 gaps inner 10
-#gaps outer 
+gaps outer 4
 #gaps vertical 40
 #gaps top 24
 #for_window [tiling] border pixel 0
