@@ -16,7 +16,7 @@ bindsym $mod+F2 exec kotatogram-desktop
 bindsym $mod+F3 exec discord
 bindsym $mod+F9 exec lxappearance
 
-# ЦВЕТ РАМОК
+# Colors
 #                       Рамка   Фон   Индикатор Родительская_рамка
 #client.focused			#3b4252 #3b4252 #3b4252 #3b4252 
 #client.focused_inactive	#3b4252 #3b4252 #3b4252 #3b4252 
