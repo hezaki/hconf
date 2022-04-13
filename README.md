@@ -1,3 +1,2 @@
 # hconf
-dotfiles
-move to ~/.config/
+https://github.com/catppuccin/
