@@ -3,5 +3,4 @@ if status is-interactive
 end
 
 set -g -x fish_greeting ''
-export XDG_SESSION_TYPE=x11
 neofetch
